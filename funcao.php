@@ -15,7 +15,7 @@
     saldo = saldo -300;
     registro("debito", 300, "Pedro");
 
-    saldo = saldo +800;
+    saldo = saldo +700;
     registro("credito", 800, "Ana");
 
     function registro(operacao, valor, cliente) {
