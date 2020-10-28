@@ -16,7 +16,7 @@
     registro("debito", 300, "Pedro");
 
     saldo = saldo +700;
-    registro("credito", 800, "Ana");
+    registro("credito", 700, "Ana");
 
     function registro(operacao, valor, cliente) {
         console.log("tipo"+operacao);
